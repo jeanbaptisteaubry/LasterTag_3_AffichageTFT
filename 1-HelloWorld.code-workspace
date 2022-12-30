@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../1-HelloWorld"
+		},
+		{
+			"name": "3-Affichage",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
